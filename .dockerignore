@@ -1,0 +1,28 @@
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env & virtualenv folders
+.env
+.venv/
+venv/
+
+# IDE/project settings
+.idea/
+.vscode/
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Logs & coverage
+*.log
+.coverage
+htmlcov/
